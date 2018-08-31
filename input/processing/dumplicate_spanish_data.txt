@@ -1,0 +1,625 @@
+0	mi envío cancelado	mi orden fue cancelada ¿ cuál es el problema ?
+1	imposible unir se a la atención a el cliente de contacto	¿ cómo puedo contactar a el servicio de atención a el cliente ?
+1	no recibí mi reembolso	¿ por qué no recibí el reembolso ?
+1	cómo abrir una disputa	¿ cómo abro una disputa ?
+0	solo me pregunto cuándo puedo obtener mi pedido , mi nombre es rosa estrada	¿ cómo obtengo mi nombre de usuario ?
+1	¿ cómo cancelo el pedido ?	¿ cómo cancelo mi pedido ?
+1	necesito una persona real para chatear	quiero hablar con una persona real
+0	¿ cómo puedo abrir una disputa ?	¿ cuándo puedo abrir una disputa ?
+1	cómo contactar a el vendedor	¿ cómo me pongo en contacto con el vendedor ?
+0	cómo verificar la protección de el comprador	¿ cómo extender el tiempo de protección de mi comprador ?
+1	¿ cómo puedo abrir una disputa ?	¿ cómo abro una disputa ?
+1	necesito una persona real , por favor	¿ puedo hablar con una persona real ?
+1	no recibí mi pedido ?	no recibí mi pedido
+1	no puedo dejar comentarios	¿ por qué no puedo dejar comentarios sobre mi pedido ?
+1	hice un pedido la semana pasada para una pantalla de teléfono	he hecho un pedido
+0	¿ cómo cancelo mi cuenta ?	¿ cómo cancelo una disputa ?
+1	cómo abrir una disputa	¿ cómo abro una disputa ?
+0	¿ cómo borro las órdenes ?	¿ cómo elimino un comentario ?
+1	puede ayudar me	¿ me puedes ayudar ?
+0	cómo abrir una disputa en la aplicación	¿ cómo puedo abrir una disputa si la orden está completa ?
+0	no puedo iniciar sesión , olvidé mi contraseña y no puedo encontrar el código de verificación en mi correo electrónico , intenté algunos vínculos ya	olvidé la contraseña de mi tarjeta agregada . ¿ que debería hacer ?
+0	olvidé mi contraseña y mi correo electrónico	olvidé la contraseña de mi tarjeta agregada . ¿ que debería hacer ?
+0	no hice una cuenta hasta después de haber realizado el pedido	he hecho un pedido
+1	no puedo dejar comentarios	¿ por qué no puedo dejar comentarios ?
+1	¿ puedo hablar con una persona real ?	¿ puedo hablar con una persona real ?
+0	hola , no he podido pagar algunos artículos porque me dice que hay un error que intento más tarde . me puedes ayudar	mi proveedor me dijo que no recibió mi pago .
+0	no puedo dejar comentarios	¿ cómo dejar un comentario anónimo ?
+1	¿ cuándo puedo hablar con una persona real ?	¿ puedo hablar con una persona real ?
+0	cómo me convierto en vendedor	¿ cómo informo a un vendedor ?
+1	necesito una persona real para chatear	¿ puedo hablar con una persona real ?
+0	cómo hago el pedido	no aceptará débito , ¿ cómo puedo hacer el pedido ?
+0	¿ cómo cancelo el pedido ?	¿ cómo cancelo la confirmación de un pedido ?
+1	quiero chatear con un humano real	quiero obtener humanos
+0	extender el tiempo de entrega	¿ puedo extender el tiempo de retroalimentación ?
+0	¿ cómo puedo cambiar mi contraseña si ya no tengo acceso a ese correo electrónico ?	quiero cambiar mi dirección de correo electrónico porque la anterior fue pirateada , ¿ cómo puedo hacer ?
+0	¿ qué pasará cuando abra una disputa ?	¿ cuándo puedo abrir una disputa ?
+0	cómo encontrar un buen vendedor ?	¿ cómo puedo encontrar la dirección postal de el vendedor ya que necesito devolver los artículos ?
+0	no puedo dejar comentarios	¿ cómo dejar un comentario anónimo ?
+1	lo siento por mi ingles . hablo francés .	no hablo inglés
+1	no , no puedo difícilmente con la atención de el cliente	¿ cómo puedo contactar a el servicio de atención a el cliente ?
+1	¿ hablas español ?	¿ hablas español ?
+1	necesito una persona real para chatear	¿ puedo hablar con una persona real ?
+1	¿ cuándo puedo hablar con una persona real ?	¿ puedo hablar con una persona real ?
+1	no puedo dejar comentarios	no puedo dejar comentarios .
+1	tengo un problema con los pagos en mi cuenta	tengo un problema con mi orden
+1	el vendedor no me responde	el vendedor no me responde
+1	intercambia monedas por cupones	¿ cómo uso las monedas ?
+0	de qué mierda estás hablando	quiero follar te
+1	¿ cómo cancelo mi cuenta ?	me gustaría saber cómo cancelar mi cuenta ?
+0	cómo cambiar la dirección de envío	¿ cómo cambio la dirección de envío ?
+1	hola , tengo un número de orden pero no puedo encontrar lo en mi cuenta	¿ por qué no puedo encontrar el pedido en mi cuenta ?
+0	¿ qué es puntos de recompensa ?	¿ qué es puntos disponibles ?
+1	hola sir mi pregunta	¿ recibiste mi pregunta ?
+0	¿ cómo puedo abrir una disputa ?	¿ cuándo puedo abrir una disputa ?
+1	no puedo dejar comentarios	no puedo dejar comentarios .
+1	necesito una persona real , por favor	¿ puedo hablar con una persona real ?
+0	configurar la dirección de envío	quiero cambiar la dirección de envío
+0	¿ cómo puedo cambiar los datos de mi tarjeta de crédito ?	¿ cómo puedo cambiar mi dirección de envío ?
+1	usted es una computadora ?	¿ eres una persona o una computadora ?
+1	hola , necesito ayuda	necesito ayuda hombre .
+0	por qué no puedo usar el cupón	¿ por qué no puedo usar paypal ?
+1	una vez más lo intentaré , puede funcionar mi tarjeta de regalo de visa	¿ puedo pagar con una tarjeta de regalo ?
+1	cómo hago el pedido	¿ cómo hago el pedido ?
+1	y necesito cancelar la disputa	¿ cómo cancelo una disputa ?
+0	¿ cómo puedo abrir una disputa ?	¿ cuándo puedo abrir una disputa ?
+0	olvidé mi contraseña y correo electrónico , y mi id de inicio de sesión	olvidé la contraseña de mi tarjeta agregada . ¿ que debería hacer ?
+1	¿ pueden ustedes ayudar me ?	¿ me puedes ayudar ?
+1	no puedo dejar comentarios	¿ por qué no puedo dejar comentarios ?
+1	no recibí mi pedido y el vendedor no responde	no recibí mi pedido
+1	¿ por qué no puedo hacer un pedido ?	¿ por qué no puedo hacer un pedido ?
+0	¿ cómo podemos escasear el período de entrega y el proceso de envío ?	¿ por qué dice que actualmente no podemos procesar tarjetas de visita ?
+1	cómo abrir una disputa	necesito abrir una disputa
+1	estaría feliz de hablar con una persona	quiero hablar con una persona
+0	¿ cómo cancelo la disputa ?	cómo cancelar una disputa aceptada
+0	intercambia monedas por cupones	solicitar una compensación ( monedas )
+0	mis monedas de la aplicación no se agregan . ¿ que puedo hacer ?	olvidé la contraseña de mi tarjeta agregada . ¿ que debería hacer ?
+0	¿ cómo agrego evidencia ?	¿ cómo agrego la dirección de envío ?
+0	¿ cómo puedo verificar el número de pedido ?	¿ dónde puedo ver el número de mi rastreador de pedidos ?
+0	no porque no quieres ayudar me	¿ me puedes ayudar ?
+0	la protección terminará y no puedo abrir una disputa , ¿ quién me devolverá el dinero ?	¿ cuándo puedo abrir una disputa ?
+0	cómo encontrar un buen vendedor ?	encontrar un vendedor de diamantes para mí
+0	no puedo dejar comentarios	¿ cómo puedo dejar un comentario ?
+1	cómo presentar una queja	¿ cómo presento una queja ?
+0	¿ cómo puedo cambiar mi contraseña si ya no tengo acceso a ese correo electrónico ?	¿ puedo pagar el pedido por correo electrónico ?
+0	extender el tiempo de entrega	¿ es necesario extender el tiempo de procesamiento ?
+0	¿ qué es una apelación ?	¿ qué es mucho ?
+0	por favor tengo un problema	tengo un problema con la orden
+1	¿ cómo extiendo la protección de el comprador ?	¿ cómo extiendo el tiempo de protección de el comprador ?
+1	el vendedor no me responde	el vendedor no me responde
+1	necesito una persona real para ayudar	¿ puedo hablar con una persona real ?
+1	tengo un problema con el vendedor	tengo un problema con el vendedor
+1	¿ puedes hablar con mí ?	¿ me puedes ayudar ?
+0	dijo los detalles de seguimiento estarán disponibles en NUMs días	¿ estas disponible ?
+1	quiero estar conectado con una persona real	quiero hablar con una persona real
+1	usted es una computadora ?	¿ eres un programa de computadora ?
+1	soy un problema con mi orden	tengo un problema con mi orden
+0	quiero usar otro método de pago	quiero cancelar un pedido y usar el dinero para pagar otro pedido
+0	cómo usar el cupón de el vendedor ?	cómo usar el cupón de nuevo
+1	usted no me puede ayudar	usted no me puede ayudar
+1	¿ cómo reporto a el vendedor ?	¿ cómo informo a un vendedor ?
+0	¿ qué pasará cuando abra una disputa ?	¿ qué sucede cuando mi pedido se congela ?
+0	¿ cómo agrego evidencia ?	¿ cómo agrego comentarios adiciona les ?
+1	no recibí mi reembolso	no recibí un reembolso de el número de pedido
+1	una necesidad de una persona real para hablar con	necesito hablar con una persona
+0	¿ quien es tu novio ?	¿ quién eres tú ?
+0	querer hacer un pedido pero el sistema no lo pone en mi cesta	no puedo hacer mi pedido
+1	cómo presentar una queja	¿ cómo presento una queja ?
+1	cómo presentar una queja	¿ cómo presento una queja ?
+1	cómo hago el pedido	quiero hacer un pedido .
+0	no puedo iniciar sesión en mi cuenta	¿ por qué no puedo iniciar sesión a través de facebook ?
+0	entonces , ¿ quién dará una respuesta ?	¿ quién eres tú ?
+1	necesito contacto con una persona real	¿ puedo hablar con una persona real ?
+1	quiero que la línea de ayuda o atención a el cliente no	¿ por qué no tienes número de atención a el cliente ?
+1	¿ cómo puedo contactar a el vendedor ?	¿ cómo me pongo en contacto con el vendedor ?
+1	¿ por qué mis pedidos no pueden ser verificados ?	¿ por qué el pago no está verificado ?
+1	hola tengo un problema	tengo un problema con la orden
+0	¿ cómo cancelo la disputa ?	¿ cómo cancelo el pago ?
+1	¿ cómo cancelo la disputa ?	¿ cómo cancelo una disputa ?
+1	hola , necesito ayuda	necesito tu ayuda
+0	cuando abro una disputa , dice order empty	¿ cuándo puedo abrir una disputa ?
+1	cómo devolver el artículo	¿ cómo devuelvo este artículo para obtener un reembolso ?
+0	cómo abrir una disputa	¿ cómo cancelar una disputa ?
+1	¿ cómo puedo obtener un recibo o factura de la orden ?	¿ cómo obtengo la factura ?
+0	pedir mensaje y vendedor mensaje ?	no puedo dejar un mensaje a el vendedor
+1	me gustaría hablar con una persona	necesito hablar con una persona
+0	por favor , no pude pagar	¿ podrías llamar ?
+1	¿ por qué nadie puede ayudar ?	¿ me puedes ayudar ?
+0	¿ cómo agrego evidencia ?	¿ cómo agrego a el carrito de compras ?
+0	no puedo abrir una disputa y ¿ cómo puedo contactar a mi vendedor ?	¿ cuándo puedo abrir una disputa ?
+1	usted es una computadora ?	¿ eres una computadora o recibes mi pregunta ?
+0	no puedo ver mi orden	¿ cómo puedo ver los comentarios de mi pedido ?
+0	¿ cómo puedo verificar el número de pedido ?	¿ cómo agrego un número de orden de compra a mi pedido ?
+0	¿ qué debería hacer ?	olvidé la contraseña de mi tarjeta agregada . ¿ que debería hacer ?
+0	¿ qué pasará cuando abra una disputa ?	¿ qué pasará si el vendedor aprueba la disputa ?
+1	me pregunto cuándo recibí mi pedido	¿ cuándo recibiré mi pedido ?
+1	cómo abrir una disputa	¿ cómo abro la disputa ?
+0	tengo un nuevo correo electrónico	¿ tienes algún correo electrónico ?
+1	¿ me ayudaste ?	¿ recibiste mi pregunta ?
+1	no puedo dejar comentarios	no puedo dejar comentarios .
+1	¿ cómo puedo abrir una disputa ?	¿ cómo abro una disputa ?
+0	¿ puedes bailar para mí ?	¿ me puedes ayudar ?
+1	¿ cómo informo a el vendedor ?	¿ cómo informo a un vendedor ?
+1	necesito chat en línea	¿ cómo hablo con alguien en línea ?
+0	lo recibi	no he recibido nada
+0	cómo contactar a el vendedor	¿ cómo informo a un vendedor ?
+0	no tengo un problema de pago real .	no lo sé
+1	no puedo iniciar sesión en mi cuenta	mi información de inicio de sesión no funciona
+1	quiero hablar con una persona real	quiero hablar con una persona real
+0	estoy siguiendo mi caso	no puedo presentar pruebas a mi caso
+0	hacer un pedido ?	¿ por qué no puedo hacer un pedido ?
+1	solicito una disputa	¿ cómo solicito un reembolso ?
+0	hola eva , tengo un pedido que debe ser cancelado . necesito ayuda por favor	no he recibido el reembolso por una orden cancelada
+1	no podemos hacer pedidos en cromo o safari	¿ por qué no puedo hacer un pedido ?
+0	 NUMs / NUMs acabo de cancelar	acabo de hacer un pedido
+0	quiero decir es ese el caso ?	no puedo presentar pruebas a mi caso
+1	¿ puedo hablar con una persona real ?	¿ puedo hablar con una persona real ?
+0	usted no me puede ayudar	¿ me puedes ayudar ?
+0	cómo encontrar un buen vendedor ?	el producto no es bueno y no puede contactar a el vendedor
+1	extender el tiempo de entrega	extender el tiempo de protección
+0	cómo hago el pedido	¿ cómo puedo hacer un pedido en un tamaño específico ?
+1	no puedo ver mi orden	no vi mi pedido . ¿ dónde está ?
+0	¿ cuál es mi contraseña ? no puedo entender lo que me enviaste	olvidé la contraseña de mi tarjeta agregada . ¿ que debería hacer ?
+1	usted es una computadora ?	¿ es esto una computadora o una persona real ?
+1	buenas noches , gracias	muchas gracias
+0	hola eva , tengo un pedido que debe ser cancelado . necesito ayuda por favor	he cancelado la orden debido a el comportamiento incorrecto de el proveedor , envíe un reembolso
+1	puede alguien ayudar me	¿ me puedes ayudar ?
+0	que mierda es eso que estas haciendo alli	quiero follar te
+1	el vendedor no ha enviado mi pedido	el vendedor se niega a enviar mi pedido
+0	el orden nunca se procesa	acabo de hacer un pedido
+0	hubo un problema con un pedido que recibí , así que envié a la tienda NUMs mensajes sobre el problema que comenzaron el jueves pasado . no he recibido noticias de ellos todavía . ¿ eso es normal ?	tengo un problema con la orden
+1	necesito una persona real , por favor	quiero hablar con una persona real
+0	cómo abrir una disputa	cómo cancelar una disputa abierta ?
+0	cómo verificar la protección de el comprador	¿ cómo pago de manera segura sin la protección de el comprador ?
+1	cómo devolver el artículo	necesito devolver un artículo
+1	¿ hablas español ?	hablas
+1	hola algunos me pueden ayudar	¿ me puedes ayudar ?
+0	necesito rastrear mi pedido su sitio web es muy difícil de navegar . solo dice " orden terminada "	acabo de hacer un pedido
+1	no puedo dejar comentarios	¿ por qué no puedo dejar comentarios sobre mi pedido ?
+0	buenas tardes , por favor , olvidé mi contraseña de acceso y no sé el correo electrónico y realicé una compra , ¿ cómo lo hago ?	olvidé la contraseña de mi tarjeta agregada . ¿ que debería hacer ?
+0	¿ qué pasará cuando abra una disputa ?	¿ cuándo puedo abrir una disputa ?
+1	hola , buenas noches	hola , buenas noches
+0	¿ qué es puntos de recompensa ?	no obtuve puntos , ¿ qué puedo hacer ?
+1	¿ hablas italiano ?	¿ puedes escribir en italiano ?
+1	¿ cómo cancelo el pedido ?	me gustaría cancelar mi pedido ¿ cómo puedo hacer esto ?
+1	¿ puedo hacer una pregunta ?	quiero hacer una pregunta
+0	¿ qué es una apelación ?	que es el amor " ? "
+0	cuando mi tiempo había terminado para enviar los productos , cambió de opinión y en lugar de dinero en paypal me ofreció un cupón en su tienda .	mi proveedor me dijo que no recibió mi pago .
+1	hola , necesito ayuda	necesito algo de ayuda
+0	no estoy satisfecho con la disputa	no estoy satisfecho con los productos
+0	¿ cómo extiendo la protección de el comprador ?	¿ cómo puedo ser elegible para la protección de el comprador ?
+1	¿ tiene una dirección de correo electrónico para enviar el reclamo ?	¿ tienes alguna dirección de correo electrónico ?
+1	quiero hablar con una persona real	¿ puedo hablar con una persona real ?
+1	no puedo dejar comentarios	¿ por qué no puedo dejar comentarios ?
+0	así que , respónde me " ! " / ! / "	el vendedor no me responde
+0	cómo abrir una disputa	¿ cómo adjuntar el video a la disputa ?
+0	dejé de comprar un producto pero quiero información que no se devuelve	quiero devolver el producto
+1	¿ por qué no puedo hacer un pedido ?	¿ por qué no puedo hacer un pedido ?
+1	quiero hacer un pedido pero no puedo	¿ por qué no puedo hacer un pedido ?
+1	no puedo iniciar sesión en mi cuenta	no puedo iniciar sesión en la cuenta
+1	¿ cómo puedo abrir una disputa ?	¿ cómo abro la disputa ?
+0	¿ cómo extiendo la protección de el comprador ?	¿ debo crear una cuenta de protección de el comprador ?
+0	¿ qué es puntos de recompensa ?	¿ por qué mis puntos recompensados no se agregan ?
+0	¿ cómo cancelo la disputa ?	¿ cómo cancelo los comentarios ?
+0	no he recibido el envío	no he recibido nada
+1	hola algunos me pueden ayudar	¿ puedes ayudar me ?
+1	cómo informar a el vendedor ?	¿ cómo informo a un vendedor ?
+1	el vendedor no me responde	el vendedor no me responde
+1	quiero quejar me	¿ cómo presento una queja ?
+0	no estoy satisfecho con el resultado de la disputa	estoy interesado en la información sobre la disputa .
+1	¿ puedo hablar con una persona real ?	¿ puedo hablar con una persona real ?
+0	quiero saber que si estoy en pakistán y lo entregas en casa , ¿ nos llevarás dólares o nuestra moneda ?	necesito saber si tomas mastercard ?
+1	¿ puedes ayudar me ?	¿ puedes ayudar me ?
+0	sólo un momento	acabo de hacer un pedido
+1	¡ quiero un humano !	quiero obtener humanos
+0	alrededor de un mes más o menos me pidieron que proporcionara documentos de validación . envié todos los documentos que solicitó . no han pasado dos meses y me piden que los envíe nuevamente . ¿ qué diablos ? ¿ por qué ?	quiero follar te
+0	¿ cómo extiendo la protección de el comprador ?	¿ cómo reviso la fecha límite de protección a el comprador ?
+0	no puedo pagar mi artículo	quiero mi artículo
+0	¿ cómo puedo abrir una disputa ?	¿ cuándo puedo abrir una disputa ?
+1	cómo devolver el artículo	quiero devolver el artículo para un reembolso
+1	eres capaz de ayudar me ?	¿ me puedes ayudar ?
+0	cómo presentar una queja	cómo presentar una disputa cuando el tiempo de espera de confirmación
+1	cómo abrir una disputa	¿ cómo abro una disputa ?
+1	¿ tienes un numero de telefono ?	tienes un numero de telefono
+0	hice una compra , la envío a la dirección incorrecta y parece que volverá , ¿ cómo obtengo mi producto ?	¿ cómo devuelvo el producto ?
+1	¿ qué pasará cuando abra una disputa ?	¿ qué pasará después de abrir una disputa ?
+0	no puedo dejar comentarios	¿ cuándo puedo dejar comentarios ?
+0	hola . tengo problemas para hacer un pedido . ¿ me pueden ayudar a descubrir qué está mal con su sistema ?	¿ me puedes ayudar ?
+0	¿ cuál es mi contraseña ? no puedo entender lo que me enviaste	le he enviado una copia de mi tarjeta de crédito , mi estado de cuenta y mi identidad . ¿ lo que sucederá ?
+0	quién es el vendedor	¿ quién eres tú ?
+0	¿ cómo encontrar una manera de enviar mi prueba de la información de la tarjeta de crédito y mi identificación , cada enlace es una página en blanco , estoy abrumado con el proceso de retroalimentación que cada tienda requiere ? estaría más que feliz de enviar mi información para que el equipo de verificación de pedidos	no puedo presentar pruebas a mi caso
+0	usted no me puede ayudar	puedes ayudar me con
+0	¿ cuál es mi contraseña ? no puedo entender lo que me enviaste	olvidé la contraseña de mi tarjeta agregada . ¿ que debería hacer ?
+1	cómo abrir una disputa	¿ cómo abro la disputa ?
+1	usted es una computadora ?	eres una computadora ?
+0	cómo hago el pedido	acabo de hacer un pedido
+0	el envío fue cancelado	¿ qué está esperando el envío ?
+0	¿ cómo cancelo mi cuenta ?	¿ cómo cancelo mi pedido ?
+0	no recibí mi reembolso	no recibí mi pedido
+1	no me permite iniciar sesión ?	no puedo iniciar sesión
+1	no estoy satisfecho con el resultado de la disputa	creo que el resultado de la reclamación es injusto .
+0	el vendedor no ha enviado mi pedido	¿ recibiré un reembolso automáticamente si el vendedor no envía mi pedido ?
+0	¿ cómo puedo verificar el número de pedido ?	¿ cómo puedo encontrar un número de identificación de producto ?
+0	 NUMs / NUMs acabo de cancelar	acabo de hacer un pedido
+1	necesito contacto con una persona real	¿ puedo hablar con una persona real ?
+1	necesito conectar a el representante en línea	necesito hablar con un representante
+1	cómo hacer una queja	¿ cómo presento una queja ?
+0	cómo abrir una disputa	cómo cancelar una disputa aceptada
+1	cambiar la dirección de envío	quiero cambiar la dirección de envío
+1	estos enlaces no funcionan necesito un equipo de servicio	necesito hablar con el servicio a el cliente
+1	¿ cómo puedo abrir una disputa ?	¿ cómo abro una disputa ?
+0	no puedo hacer mi pago a través de mastercard , sigue mostrándo me ' error de el sistema ' . ¿ que debería hacer ?	olvidé la contraseña de mi tarjeta agregada . ¿ que debería hacer ?
+0	tengo un nuevo correo electrónico	¿ puedo tener una dirección de correo electrónico ?
+1	eres capaz de ayudar me	¿ me puedes ayudar ?
+1	no puedo dejar comentarios	¿ por qué no puedo dejar comentarios sobre mi pedido ?
+0	tengo un nuevo correo electrónico	¿ por qué no recibí mi correo electrónico de confirmación ?
+0	cómo se agregarán los puntos de recompensa	olvidé la contraseña de mi tarjeta agregada . ¿ que debería hacer ?
+0	no puedes ayudar me eres una computadora	¿ me puedes ayudar ?
+0	¿ cómo puedo cambiar los datos de mi tarjeta de crédito ?	¿ cómo puedo encontrar los detalles de mi pedido ?
+1	¿ cómo solicito un reembolso ?	¿ cómo solicito un reembolso ?
+0	tengo un nuevo correo electrónico	no he recibido un correo electrónico que confirme mi pedido
+0	¿ de verdad tienes otra respuesta para mí ?	¿ tienes alguna dirección de correo electrónico ?
+0	¿ puedes ver dónde está	¿ dónde puedo ver la respuesta de el proveedor ?
+0	no recibí respuesta a mi solicitud de reembolso por artículos fallas de producción chat za domingo	¿ cómo solicito un reembolso ?
+1	quiero estar conectado con una persona real	¿ puedo hablar con una persona real ?
+1	¿ cómo puedo abrir una disputa ?	¿ cómo abro la disputa ?
+1	pasos sobre cómo poner se en contacto con el vendedor ?	¿ cómo me pongo en contacto con el vendedor ?
+1	¿ puedo hablar con una persona real ?	quiero hablar con una persona real
+1	¿ puedes hablar con mí ?	¿ puedes ayudar me ?
+0	no he recibido mis bienes	no he recibido por bienes . incautado por aduanas
+0	he recibido productos que no pedí . hice un pedido de otra compañía que no parece estar conectado a usted	no recibí mi pedido
+0	por favor respónde me	el vendedor no me responde
+0	¿ cómo cancelo la disputa ?	¿ cómo cancelo mi pedido ?
+0	hola , necesito ayuda	necesito ayuda en ruso
+0	¿ cómo cancelo la disputa ?	cómo cancelar una aceptación de disputa
+1	usted es la cuarta persona con quien he hablado sobre el mismo problema . ¿ puedo hablar con un supervisor ? me dijeron que iba a recibir un correo electrónico dentro de las NUMs horas sobre una apelación .	¿ puedo hablar con una persona real ?
+1	cómo editar la dirección de envío	¿ cómo puedo editar mi dirección de envío ?
+1	cómo devolver el artículo	¿ cómo devuelvo un artículo enviado por el vendedor ?
+0	cómo presentar una queja	¿ cómo cierro una queja ?
+0	entonces , ¿ no eres capaz de ayudar ?	eres tan listo .
+1	cómo hago el pedido	cómo hago un pedido ?
+1	eva quiero hablar con humano	quiero obtener humanos
+1	no hablo inglés	no hablo inglés
+1	tengo un problema con el vendedor	tengo un problema con un vendedor malo
+0	¿ cómo extiendo la protección de el comprador ?	¿ cómo pago de manera segura sin la protección de el comprador ?
+0	¿ de verdad tienes otra respuesta para mí ?	¿ tienes alguna dirección de correo electrónico ?
+0	sólo un momento	acabo de hacer un pedido
+1	ahora olvido mi contraseña	olvidé mi contraseña
+0	¿ cómo agrego evidencia ?	¿ cómo agrego cupones a mi pedido ?
+0	¿ cómo presento una apelación ?	no puedo presentar pruebas a mi caso
+1	cómo obtener la factura	¿ cómo obtengo la factura ?
+0	¿ tiene una dirección de correo electrónico para enviar el reclamo ?	¿ tienes algún correo electrónico ?
+0	olvidé mi contraseña no puedo recuperar la y no me puedo conectar porque mi correo ya existe	olvidé la contraseña de mi tarjeta agregada . ¿ que debería hacer ?
+0	no puedo dejar comentarios	¿ puedo dejar comentarios para los proveedores ?
+0	el botón de chat no funciona	botón de chat en vivo
+0	¿ cómo cancelo mi cuenta ?	¿ cómo restauro la cuenta ?
+1	no recibí mi reembolso	no obtuve el reembolso de mi dinero . han pasado dos meses . ¿ cuándo devolverá dinero ?
+0	no puedo encontrar lo	no puedo hablar inglés
+0	usted no me puede ayudar	me puedes ayudar con algo
+1	puede ayudar me	¿ puedes ayudar me ?
+0	cómo devolver el artículo	mi artículo fue enviado de regreso . ¿ cómo lo obtengo ahora ?
+1	¿ hay alguna persona real que pueda ayudar me ?	¿ puedo hablar con una persona real ?
+0	cuanto tiempo olvidé la contraseña	olvidé la contraseña de mi tarjeta agregada . ¿ que debería hacer ?
+0	¿ qué es puntos de recompensa ?	compartí con amigos , pero ¿ por qué no dar puntos ?
+1	cómo abrir una disputa	¿ cómo abro una disputa ?
+1	cómo usar el cupón de el vendedor ?	¿ cómo uso el cupón de el vendedor ?
+0	cómo pago el dinero ?	quiero cancelar un pedido y usar el dinero para pagar otro pedido
+1	no estoy satisfecho con el resultado de la disputa	no estoy satisfecho con el resultado de la reclamación .
+1	no puedo dejar comentarios	¿ por qué no puedo dejar comentarios sobre mi pedido ?
+1	no tengo un problema de pago real .	tengo un problema con el pago
+1	hola , necesito ayuda	necesito ayuda aquí
+1	¿ cuál es el nombre de usuario de mi cuenta ?	¿ cómo obtengo mi nombre de usuario ?
+1	soy de china	soy de país
+0	cómo abrir una disputa en la aplicación	cómo cancelar una disputa abierta ?
+0	tengo un nuevo correo electrónico	he ingresado un correo electrónico equivocado .
+1	estoy muy insatisfecho con este servicio de ayuda automática . necesito una persona real	¿ puedo hablar con una persona real ?
+1	una necesidad de una persona real para hablar con	quiero hablar con una persona real
+0	¿ cómo puedo verificar el número de pedido ?	¿ cómo puedo buscar artículo por número de artículo ?
+1	¿ cómo cancelo la disputa ?	¿ cómo cancelo una disputa escalada ?
+1	¿ cómo cancelo mi cuenta ?	me gustaría saber cómo cancelar mi cuenta ?
+1	¿ cómo abro una disputa ?	¿ cómo abro una disputa ?
+1	¿ hablas italiano ?	hablas
+0	he olvidado mi contraseña	olvidé la contraseña de mi tarjeta agregada . ¿ que debería hacer ?
+0	¿ cómo puedo cambiar mi contraseña si ya no tengo acceso a ese correo electrónico ?	no tengo más preguntas
+1	¿ qué es una apelación ?	¿ por qué no hay mi apelación ?
+0	¿ cómo puedo verificar el número de pedido ?	revisé mi tarjeta de crédito pero no hay ningún pago
+1	como puede ayudar me	¿ me puedes ayudar ?
+0	¡ saludo ! compré el artículo pero puse el número equivocado de el apartamento y no recibí el paquete . me puse en contacto con el vendedor y él me dijo que me enviaría de vuelta cuando volviera el paquete . ha pasado un mes y no va a enviar el paquete de nuevo	mi proveedor me dijo que no recibió mi pago .
+0	el vendedor no ha enviado mi pedido	¿ qué pasa si el tiempo se acaba y el vendedor no ha enviado mi pedido ?
+0	¿ cómo puedo enviar una solicitud de garantía ?	¿ cómo solicito un reembolso ?
+1	cambiar la dirección de envío	quiero cambiar la dirección de envío
+0	no puedo iniciar sesión en mi cuenta	¿ por qué mi inicio de sesión de facebook no funciona ?
+1	¿ puedo hablar con una persona en vivo ?	quiero hablar con una persona
+0	cómo abrir una disputa	cómo cancelar una disputa abierta ?
+0	quiero saber que si estoy en pakistán y lo entregas en casa , ¿ nos llevarás dólares o nuestra moneda ?	sé que eres un robot .
+0	hubo un problema con un pedido que recibí , así que envié a la tienda NUMs mensajes sobre el problema que comenzaron el jueves pasado . no he recibido noticias de ellos todavía . ¿ eso es normal ?	tengo un problema con un pedido
+1	¿ como lo hago ?	¿ cómo puedo hacer eso ?
+1	¿ cómo voy a la atención a el cliente ?	¿ por qué no tienes número de atención a el cliente ?
+1	¿ cómo cancelo la disputa ?	¿ cómo cancelo una disputa ?
+0	¿ cómo agrego evidencia ?	¿ cómo agrego una tienda favorita ?
+0	no he recibido mis bienes	no he recibido mis productos y el remitente no ha respondido a mi mensaje
+1	¿ hablas italiano ?	¿ hablas italiano ?
+0	¿ qué pasará cuando abra una disputa ?	abro la disputa pero no obtengo respuesta . ¿ lo que pasa ?
+1	cómo verificar la protección de el comprador	¿ cómo reviso la fecha límite de protección a el comprador ?
+1	no puedo iniciar sesión en mi cuenta	accedo a mis pedidos pero sigue solicitando el inicio de sesión
+0	cómo abrir una disputa	cómo cancelar una aceptación de disputa
+0	cómo abrir una disputa en la aplicación	¿ cómo puedo abrir una disputa si el estado está terminado ?
+1	¿ es esto una jodida computadora ?	¿ es esto una computadora o una persona real ?
+0	hola eva , tengo un pedido que debe ser cancelado . necesito ayuda por favor	he cancelado el pedido y se muestra en espera de cancelación
+1	quiero saber que si estoy en pakistán y lo entregas en casa , ¿ nos llevarás dólares o nuestra moneda ?	quiero cambiar moneda
+0	¿ en que pais vives ?	¿ envías pedidos a mi país ?
+1	necesito una persona real para ayudar	¿ puedo hablar con una persona real ?
+0	mis monedas de la aplicación no fueron agregadas . que puedo hacer	olvidé la contraseña de mi tarjeta agregada . ¿ que debería hacer ?
+1	¿ cómo cancelo la disputa ?	¿ cómo cancelar una disputa ?
+0	cómo bloquear para bloquear a el vendedor	¿ cómo informo a un vendedor ?
+1	¿ hola me pueden ayudar ?	¿ me puedes ayudar ?
+0	¿ qué es puntos de recompensa ?	no tengo mis puntos
+1	¿ hablas italiano ?	hablas ruso
+1	no puedo abrir la orden de seguimiento	no puedo rastrear mi orden
+1	cómo usar paypal	¿ por qué no puedo usar paypal ?
+1	quiero pagar la cantidad con la tarjeta de regalo	¿ puedo pagar con una tarjeta de regalo ?
+0	hola , buenas noches	¿ dormiste bien anoche ?
+1	¿ cómo cancelo la disputa ?	cómo cancelar una disputa abierta ?
+1	¿ cómo cancelo mi cuenta ?	cómo cancelar mi cuenta
+0	cómo abrir una disputa	¿ cómo puedo abrir una disputa sin un archivo adjunto ?
+0	quiero recibir el recibo	quiero obtener humanos
+1	cómo reportar un vendedor ?	¿ cómo informo a un vendedor ?
+0	¿ qué pasará cuando abra una disputa ?	¿ cuándo recibiré un reembolso después de abrir la disputa ?
+0	¿ cómo cancelo el pedido ?	¿ cómo cancelo el pedido en esperando entrega ?
+0	no he recibido mi pedido	no puedo hacer mi pedido
+0	¿ qué pasará cuando abra una disputa ?	¿ qué pasará después de que intensifique la disputa ?
+1	cómo hago el pedido	¿ cómo hago mi pedido ?
+1	¿ cómo cancelo el pedido ?	¿ cómo cancelo el pedido si ya he pagado ?
+1	¿ hay alguna persona real que pueda ayudar me ?	¿ puedo hablar con una persona real ?
+0	no estoy satisfecho con el resultado de la disputa	no puedo abrir una disputa
+0	el orden nunca se procesa	acabo de hacer un pedido
+0	¿ cómo puedo cambiar los datos de mi tarjeta de crédito ?	¿ cómo cambio mis datos bancarios ?
+0	quiero saber que si estoy en pakistán y lo entregas en casa , ¿ nos llevarás dólares o nuestra moneda ?	estoy harto de ti .
+1	puedes ayudar m	¿ me puedes ayudar ?
+1	¿ por qué no tienes un número donde podemos llamar te ?	¿ por qué no tienes número de atención a el cliente ?
+1	¿ hablas italiano ?	hablas
+1	y tengo un problema con mi orden	tengo un problema con esta orden
+0	¿ qué es una apelación ?	¿ qué hora es allí ?
+1	¿ cómo puedo contactar a el servicio a el cliente ?	¿ cómo puedo contactar a el servicio de atención a el cliente ?
+1	quiero estar conectado con una persona real	¿ puedo hablar con una persona real ?
+0	cómo usar el cupón de el vendedor ?	¿ cómo uso select coupon ?
+1	no recibí mi reembolso	no recibí el reembolso
+1	no puedo hacer una cuenta y quiero rastrear un paquete	¿ cómo puedo rastrear mi paquete ?
+1	querer hacer un pedido pero no puedo	¿ por qué no puedo hacer un pedido ?
+0	¿ cómo cambio la contraseña ?	¿ cómo cambio la evaluación ?
+1	no puedo cambiar el idioma a el español	¿ hablas español ?
+0	¿ qué es puntos de recompensa ?	¿ qué hora es allí ?
+0	donde puedo encontrar el código de barras	¿ cómo puedo encontrar una tienda ?
+1	¿ cómo cancelo mi cuenta ?	cómo cancelar mi cuenta
+1	usted es una computadora ?	eres humano o computadora ?
+1	yo soy de india	soy de país
+0	¿ cómo cancelo el pedido ?	¿ cómo cancelo una disputa ?
+0	no puedo agregar una tarjeta de crédito a la cuenta	no puedo hacer el pago con tarjeta de crédito
+0	cómo verificar la protección de el comprador	¿ cuánto debo pagar por la comisión de protección de el comprador ?
+0	¿ qué es puntos de recompensa ?	¿ por qué no tengo puntos para mis pedidos ?
+1	hola , necesito ayuda	necesito ayuda en algo
+0	¿ cómo cancelo mi cuenta ?	¿ cómo cancelo el pago ?
+1	cómo cancelar la disputa ?	¿ cómo cancelo una disputa ?
+0	mi nivel de membresía no se agrega	¿ cómo cancelo mi membresía ?
+0	buen día hice una compra hace NUMs meses y no llegó , el vendedor dice que tuvo problemas con la aduana . pero no me ha solucionado ni el reembolso ni el producto necesito ayuda ya que no me responde	mi proveedor me dijo que no recibió mi pago .
+0	orden no recibido vendedor no respuesta	el vendedor no me responde
+0	cómo abrir una disputa en la aplicación	¿ cómo puedo abrir una disputa con una orden cerrada ?
+0	lo siento pero no me ayudas	¿ me puedes ayudar ?
+0	no puedo dejar comentarios	¿ cómo dejo comentarios ?
+1	no puedo iniciar sesión en mi cuenta	no puedo iniciar sesión con mi id
+0	¿ qué es una apelación ?	¿ qué es trademanager ?
+1	eva eres de verdad , como una persona real o un robot .	¿ es esto una computadora o una persona real ?
+1	¿ cómo puedo cambiar los datos de mi tarjeta de crédito ?	necesito cambiar los detalles de mi tarjeta de crédito .
+1	¿ cómo informo a un vendedor de fraude ?	¿ cómo informo a un vendedor ?
+1	¿ hablas italiano ?	¿ hablas portugués ?
+1	¿ cuándo se realizará el reembolso ?	¿ cuándo recibiré mi reembolso ?
+1	¿ hablas italiano ?	¿ habla usted francés ?
+0	no estoy satisfecho con el resultado de la disputa	no he podido abrir una disputa
+0	cómo abrir una disputa	cómo retirar una disputa escalada ?
+0	cómo presentar una queja	¿ cuánto dura el período de queja ?
+1	cómo abrir una disputa	¿ cómo abro una disputa ?
+1	cómo reportar a el vendedor .	¿ cómo informo a un vendedor ?
+0	¿ cómo presentar una apelación de pago ?	¿ cómo presento una queja ?
+0	hice un pedido y lo cancelé , pero me dedujeron	he hecho un pedido
+0	cómo abrir una disputa en la aplicación	¿ cómo abro la disputa con una orden finalizada ?
+1	usted es una computadora ?	¿ eres una persona en vivo o una computadora ?
+1	cómo presentar una queja	¿ puedo presentar una queja contra el vendedor ?
+1	cómo abrir una disputa '	¿ cómo abro una disputa ?
+1	¿ hablas italiano ?	hablas
+0	¿ cómo puedo abrir una disputa ?	¿ cuándo puedo abrir una disputa ?
+1	¿ puedo hablar con una persona real ?	¿ puedo hablar con una persona real ?
+1	no estoy satisfecho con el resultado de la disputa	no estoy satisfecho con el resultado de la reclamación . ¿ que puedo hacer ?
+1	no hablo inglés	no hablo inglés
+0	no puedo dejar comentarios	¿ puedo dejar un comentario privado ?
+0	¿ cómo puedo cambiar los datos de mi tarjeta de crédito ?	¿ cómo puedo cambiar mi nombre de contacto ?
+1	y tengo un problema con mi orden	tengo un problema con un pedido
+0	usted no me puede ayudar	¿ me puedes ayudar ?
+0	no he recibido mi pedido	no puedo hacer mi pedido
+1	ni siquiera he podido colocar la maldita orden	¿ por qué no puedo hacer un pedido ?
+1	cómo cambiar la dirección de envío	¿ cómo puedo cambiar la dirección de envío incorrecta ?
+1	¿ cómo puedo abrir una disputa ?	¿ cómo abro una disputa ?
+0	estoy interesado en una especie de hoja de minnie	eres muy amable
+0	¿ cómo puedo verificar el número de pedido ?	¿ cómo puedo saber el número de seguimiento de mi pedido ?
+0	extender el tiempo de entrega	¿ puedo extender el tiempo de procesamiento ?
+0	olvidé mi contraseña y respuesta de seguridad	olvidé la contraseña de mi tarjeta agregada . ¿ que debería hacer ?
+0	ok gracias la última pregunta eres tú española	muchas gracias
+0	él me lo escribió ayer	mi proveedor me dijo que no recibió mi pago .
+0	¿ dónde puedo ver qué proveedores entregan las mercancías más rápido ?	¿ dónde puedo ver la respuesta de el proveedor ?
+0	¿ cuál es mi contraseña ? no puedo entender lo que me enviaste	olvidé mi id y contraseña de trademanager , ¿ qué puedo hacer ?
+1	¿ cómo puedo informar a el vendedor de fraude ?	¿ cómo informo a un vendedor ?
+0	¿ cuál es mi contraseña ? no puedo entender lo que me enviaste	olvidé la contraseña de mi tarjeta agregada . ¿ que debería hacer ?
+1	cómo me pongo en contacto con su vendedor	¿ cómo me pongo en contacto con el vendedor ?
+1	cómo encontrar un buen vendedor ?	¿ cómo seleccionar un buen proveedor ?
+1	cómo devolver el artículo	quiero devolver el artículo
+0	mi nivel de membresía no se agrega	olvidé la contraseña de mi tarjeta agregada . ¿ que debería hacer ?
+1	cómo obtener una factura	¿ cómo obtengo la factura ?
+1	quiero hablar con una persona	quiero hablar con una persona real
+0	hola eva , tengo un pedido que debe ser cancelado . necesito ayuda por favor	cancelé una orden y no me han devuelto
+0	intercambia monedas por cupones	pagar con los cupones
+1	el vendedor no ha enviado mi pedido	el vendedor se niega a enviar mi pedido después de que pagué
+1	cómo reportar a su vendedor	¿ cómo informo a un vendedor ?
+0	cómo abrir una disputa	cómo cancelar una disputa abierta ?
+1	¿ hablas italiano ?	¿ hablas español ?
+0	cómo devolver el artículo	el artículo está de vuelta en china
+0	cancelado sin envío	¿ qué está esperando el envío ?
+1	cómo informar a el vendedor . ?	¿ cómo informo a un vendedor ?
+0	la fecha límite para abrir una disputa ya ha terminado , ¿ cómo puedo ?	¿ cómo abro una disputa ?
+0	no puedo dejar comentarios	¿ cuándo puedo dejar comentarios ?
+0	cómo presentar una queja	¿ qué tal mi queja ?
+1	mi envío cancelado	¿ por qué se cancela mi pedido ?
+0	¿ qué pasará cuando abra una disputa ?	¿ qué pasará si el vendedor no responde a mi disputa ?
+0	¿ cuál es mi contraseña ? no puedo entender lo que me enviaste	envié todos los materiales para verificar mi tarjeta de crédito . ¿ lo que sucederá ?
+1	cómo presentar una queja	¿ cómo presentar un reclamo ?
+0	cómo volver a abrir una disputa	¿ cómo abro una disputa ?
+1	no puedo dejar comentarios	no puedo dejar comentarios sobre una transacción .
+0	no estoy satisfecho con el resultado de la disputa	¿ dónde puedo ver el resultado de la disputa ?
+1	¿ puedes ayudar me con eso ?	¿ puedes ayudar me ?
+0	¿ estás seguro de que no puedes ayudar me ?	¿ me puedes ayudar ?
+1	¿ cómo cancelo mi cuenta ?	¿ cómo cancelo mi membresía ?
+1	como puede ayudar me	¿ puedes ayudar me ?
+0	¿ cómo agrego evidencia ?	¿ cómo agrego artículos a el carrito de compras ?
+0	cómo verificar la protección de el comprador	¿ cómo extiendo el tiempo de protección de el comprador ?
+1	hola , necesito ayuda	necesito ayuda con una transacción
+1	no tengo un problema de pago real .	tengo un problema con el pago
+0	¿ cómo cancelo el pedido ?	¿ cómo cancelo el pedido si el producto ya se envió ?
+1	quiero regresar	quiero devolver el paquete
+0	¿ puedo dejar un comentario porque el vendedor es muy amable ?	no puedo dejar un mensaje a el vendedor
+1	¿ hablas portugués ?	hablas
+0	no puedo editar mi dirección de facturación en los países bajos	¿ cómo puedo editar mi dirección de envío ?
+1	no puedo iniciar sesión	no puedo iniciar sesión
+0	¿ cómo agrego evidencia ?	¿ cómo lo agrego a la lista de la tienda ?
+1	y tengo un problema con mi orden	tengo un problema con un pedido
+0	cuándo viene la ayuda	¿ cuándo recibo un reembolso ?
+1	así que por favor puedes ayudar me	¿ me puedes ayudar ?
+1	no puedo dejar comentarios	no puedo dejar comentarios sobre una transacción .
+0	¡ estoy intentando enviar una devolución y el botón de enviar no funciona !	no puedo presentar pruebas a mi caso
+0	¿ cómo puedo cambiar mi contraseña si ya no tengo acceso a ese correo electrónico ?	no tengo acceso a mi cuenta
+0	no deseo un reembolso parcial , quiero un reembolso completo	¿ cómo solicito un reembolso parcial ?
+0	hice una solicitud en enero y aún no he recibido , ¿ cómo lo hago ?	¿ cómo solicito un reembolso ?
+0	cómo abrir una disputa	¿ cómo agregar imágenes a la disputa ?
+1	¿ puedo tener atención a el cliente normal , no robot por favor	¿ por qué no tienes número de atención a el cliente ?
+0	no estoy satisfecho con la disputa	¿ puedo devolver un producto si no estoy satisfecho ?
+0	después de el pago , ¿ cómo informo que lo hice ? voy a hacer la unión de el oeste , y ¿ cómo lo hago ?	¿ cómo informo a un vendedor ?
+0	no puedo encontrar lo	no puedes ayudar me
+1	¿ cómo puedo pagar paypal ?	¿ cómo pago con paypal ?
+1	quiero hablar con un hombre	quiero hablar con una persona
+0	usted no me puede ayudar	¿ me puedes ayudar ?
+1	cómo contactar a el vendedor	¿ cómo me pongo en contacto con el vendedor ?
+0	mi reembolso no tiene el precio correcto . ¿ que debería hacer ?	olvidé la contraseña de mi tarjeta agregada . ¿ que debería hacer ?
+0	puntos de recompensa no agregados	olvidé la contraseña de mi tarjeta agregada . ¿ que debería hacer ?
+0	¿ puedes ver mi pregunta ?	¿ recibiste mi pregunta ?
+0	hola , tengo un problema , quiero devolver la videocámara a el servicio de garantía y el vendedor no responde a mi mensaje	envié un correo electrónico a el servicio a el cliente . ¿ cuánto tiempo lleva responder ?
+1	el vendedor no me reembolsa	el vendedor no me responde
+1	¿ cómo obtengo una factura ?	¿ cómo obtengo la factura ?
+1	¿ cómo agrego evidencia ?	¿ cómo presento evidencia para respaldar mi reclamo ?
+1	el vendedor no ha enviado mi pedido	¿ por qué el vendedor no envía la orden ?
+0	¿ de verdad tienes otra respuesta para mí ?	¿ tienes algún correo electrónico ?
+1	¿ puedo hablar con una persona real ?	puedo chatear con una persona real
+0	buenos días . hice todo el procedimiento de devolución de la solicitud , debido a la demora en llegar , pero ahora en la mañana , la solicitud acaba de llegar a mi casa . ¿ qué procedimiento seguir ahora ? el reembolso aún no está en mi cuenta , puedo cancelar el reembolso yc	¿ cómo solicito un reembolso ?
+0	¿ cómo puedo cambiar mi contraseña si ya no tengo acceso a ese correo electrónico ?	¿ puedo enviar te un correo electrónico ?
+0	hola eva , tengo un pedido que debe ser cancelado . necesito ayuda por favor	hola necesito decir te algo sobre mi orden
+1	intercambia monedas por cupones	¿ cómo canjeo cupones después de recibir monedas ?
+0	mi cuenta no funciona	mi trademanager no funciona
+0	¿ cómo puedo cambiar mi contraseña si ya no tengo acceso a ese correo electrónico ?	ya no puedo acceder a mi cuenta
+0	¿ cómo puedo cambiar mi contraseña si ya no tengo acceso a ese correo electrónico ?	no pude cambiar mi contraseña .
+0	el vendedor no ha enviado mi pedido	mi vendedor ha enviado el producto . quiero cancelar el pedido
+1	hice un pedido de españa a españa	he hecho un pedido
+0	no puedo ver mi orden	no puedo ver el seguimiento de mi pedido
+0	¿ cómo puedo presentar una apelación ?	¿ cómo presento una queja ?
+0	cómo convertir se en vendedor	¿ cómo informo a un vendedor ?
+0	no tengo un problema de pago real .	no tengo más preguntas
+1	me están diciendo que cancele la disputa	¿ cómo cancelo una disputa ?
+0	cómo devolver el artículo	devolví mi artículo
+1	cómo contactar a el vendedor	¿ cómo puedo contactar a el vendedor ?
+1	me pregunto cuándo recibí mi pedido	¿ cuándo recibiré mi pedido ?
+0	donde puedo ver mi página de cupones ?	¿ dónde puedo ver la respuesta de el proveedor ?
+0	cómo abrir una disputa	cómo cancelar una disputa abierta ?
+0	¿ cómo cancelo mi cuenta ?	¿ cómo cancelo mi pedido ?
+0	quién será el vendedor de reembolso en aliexpress	¿ quién eres tú ?
+1	y tengo un problema con mi orden	tengo un problema con la orden
+0	cómo abrir una disputa en la aplicación	¿ cómo puedo abrir una disputa sin un archivo adjunto ?
+1	¿ cómo cancelo el pedido ?	¿ cómo cancelo mi pedido después de haber lo hecho ?
+0	¿ qué es una apelación ?	qué decir
+0	presento mi apelación y no pasa nada	no puedo presentar pruebas a mi caso
+0	tengo un nuevo correo electrónico	compré un producto y no he recibido un correo electrónico de confirmación
+0	agregar video evidencia	no puedo presentar pruebas a mi caso
+0	no había recibido mi mercancía	¿ cuándo recibiré mi pedido ?
+0	¿ cómo cancelo mi cuenta ?	¿ cómo cancelo el estado de procesamiento de fondos ?
+1	¿ cómo cambio la dirección de envío ?	quiero cambiar la dirección de envío
+1	y tengo un problema con mi orden	tengo un problema con mi orden
+0	no he recibido mis bienes	he recibido la mercancía y también recibí un reembolso completo .
+1	no he recibido mis bienes	no he recibido mis productos , ¿ qué puedo hacer ?
+1	eres tu computadora ?	¿ es esto una computadora o una persona real ?
+0	no puedo abrir una disputa . el tiempo se acabo	¿ cuándo puedo abrir una disputa ?
+0	no puedo abrir la disputa	¿ cuándo puedo abrir una disputa ?
+1	cómo presentar una queja	necesito presentar una queja contra un vendedor .
+0	cómo hago el pedido	no puedo hacer un pedido .
+0	¿ cómo puedo verificar el número de pedido ?	¿ cómo puedo encontrar mi número de rastreo ?
+1	¿ qué crees que tengo y por qué no español que son los que tienen que asistir eh ? estoy probando	¿ hablas español ?
+0	¿ cómo puedo cambiar los datos de mi tarjeta de crédito ?	donde puedo obtener mis detalles de reembolso
+1	estaría feliz de hablar con una persona	quiero hablar con una persona real
+0	no me entiendes para ayudar nos	¿ me puedes ayudar ?
+1	¿ cómo extiendo la protección de el comprador ?	quiero extender la compra de protección
+1	¿ cómo puedo abrir una disputa ?	¿ cómo abro una disputa ?
+1	quiero saber que si estoy en pakistán y lo entregas en casa , ¿ nos llevarás dólares o nuestra moneda ?	¿ solo acepta dólares ?
+1	tengo un producto problemático	tengo un problema con la orden
+1	¿ cómo extiendo la protección de el comprador ?	¿ cómo extender el tiempo de protección de mi comprador ?
+0	dirección de envío de el vendedor	quiero cambiar la dirección de envío
+0	¿ cómo abro una disputa ?	¿ cómo cancelo una disputa ?
+1	el vendedor no me reembolsa	el vendedor no me responde
+1	¿ puedo llamar a el servicio a el cliente ?	necesito hablar con el servicio a el cliente
+0	¿ cómo puedo cambiar mi contraseña si ya no tengo acceso a ese correo electrónico ?	¿ cuánto tiempo toma desde que realizo mi pedido hasta que recibo un correo electrónico ?
+0	tengo un nuevo correo electrónico	puedes dar me tu email
+1	necesito hablar con el servicio en línea .	necesito hablar con el servicio a el cliente
+0	la fecha límite ha expirado y no puedo abrir una disputa	¿ cuándo puedo abrir una disputa ?
+0	¿ cómo cancelo mi cuenta ?	¿ cómo cancelo una disputa ?
+0	hablé con ti ayer	te quiero .
+1	no se puede hacer un pedido ?	¿ por qué no puedo hacer un pedido ?
+1	¿ cómo cancelo la disputa ?	¿ cómo cancelo una disputa ?
+0	pregunta y respuesta	el vendedor no me responde
+0	ryley sabe mi problema	tengo un problema con mi orden
+1	usted es una computadora ?	hace esto automáticamente la respuesta de la computadora
+0	acabo de enviar una publicación	acabo de hacer un pedido
+0	olvidé la identificación de la cuenta de inicio de sesión y la contraseña , ¿ qué debo hacer ?	olvidé la contraseña de mi tarjeta agregada . ¿ que debería hacer ?
+0	no tengo un problema de pago real .	no lo sé .
+0	¿ qué pasará cuando abra una disputa ?	he intensificado la disputa . ¿ lo que sucederá ?
+1	el vendedor no me responde	el vendedor no me responde
+1	estoy muy insatisfecho con este servicio de ayuda automática . necesito una persona real	¿ puedo hablar con una persona real ?
+0	no puedo dejar comentarios	¿ cuándo puedo dejar comentarios ?
+0	cómo presentar una queja	¿ cómo puedo subir el archivo ?
+1	no hablo inglés	no hables ingles
+0	¿ cómo puedo cambiar los datos de mi tarjeta de crédito ?	¿ cómo reviso los detalles de mi disputa ?
+0	hablo con saller y él me dijo por qué esto en NUMs días porque resolvió mi pregunta	mi proveedor me dijo que no recibió mi pago .
+0	hola , quiero abrir una disputa , pero no puedo subir fotos o videos	¿ cuándo puedo abrir una disputa ?
+0	hubo un problema con un pedido que recibí , así que envié a la tienda NUMs mensajes sobre el problema que comenzaron el jueves pasado . no he recibido noticias de ellos todavía . ¿ eso es normal ?	tengo un problema con esta orden
+0	cómo bloquear a un vendedor	¿ cómo informo a un vendedor ?
+0	por favor necesito presentar una apelación	¿ cómo presento una queja ?
+0	¿ cómo extiendo la protección de el comprador ?	¿ tienes protección de el comprador ?
+1	¿ qué es una apelación ?	¿ por qué no puedo encontrar mi apelación ?
+0	todavía tengo problemas con los vendedores que no aceptó para devolver me	mi proveedor me dijo que no recibió mi pago .
+1	solicito el reembolso de esta solicitud , ya que no he recibido	¿ cómo solicito un reembolso ?
+0	cómo abrir una disputa en la aplicación	cómo abrir disputa para orden completada
+1	necesito hablar con maria	necesito hablar con un representante
+0	cómo verificar el nivel de membresía ?	¿ cómo cancelo mi membresía ?
+1	cómo hago el pedido	cómo hago un pedido ?
+0	no he recibido mis bienes	los bienes que recibí están dañados
+0	¿ hablas italiano ?	habla usted inglés
+1	¿ puedo hablar con una persona real ?	y hablo con una persona real
+1	no puedo rastrear mis pedidos	no puedo rastrear mi orden
+1	hola , necesito ayuda	necesito ayuda
+1	hola , necesito ayuda	necesito ayuda .
+0	cómo hacer un pedido	¿ por qué no puedo hacer un pedido ?
+1	quiero hablar con humanos	quiero obtener humanos
+0	lo siento , no puedes ayudar me	¿ me puedes ayudar ?
+0	necesito ayuda	necesito factura
+1	¿ cómo puedo reportar un vendedor de fraude ?	¿ cómo informo a un vendedor ?
+0	cómo responder a una disputa	envié un correo electrónico a el servicio a el cliente . ¿ cuánto tiempo lleva responder ?
+0	¿ cómo extiendo la protección de el comprador ?	¿ cómo uso el servicio de protección de el comprador ?
+1	usted es una computadora ?	¿ es esto una computadora o una persona real ?
+1	¿ puedo hablar con alguien ?	¿ cómo hablo con alguien en línea ?
+0	el vendedor no ha enviado mi pedido	¿ cuál es el límite de tiempo para que el vendedor envíe mi pedido ?
+1	ok gracias la última pregunta eres tú española	¿ hablas español ?
+0	sin reembolso de envío	¿ qué está esperando el envío ?
+0	¿ qué pasará cuando abra una disputa ?	¿ cuándo puedo abrir una disputa ?
+1	quiero una persona real y amp no es un robot .	quiero hablar con una persona real
+0	no puedo encontrar lo	no puedo llamar te

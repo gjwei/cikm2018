@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="1164fb3f-4301-4bf5-865a-66ccadd3a19b" name="ccnt" url="http://183.129.253.170">
+        <fileTransfer host="183.129.253.170" port="322" rootFolder="/home/gjw/document/cikm" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="322" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="1d32403b-5cab-481b-a958-6e542d31aded" name="t-jiagao" url="http://10.172.206.67">
+        <fileTransfer host="10.172.206.67" port="22" rootFolder="/home/t-jiagao/workplace/cikm" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

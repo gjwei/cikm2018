@@ -1,0 +1,8 @@
+pytorch
+numpy
+pandas
+ipdb
+tqdm
+nltk
+stanfordcorenlp
+sklearn
