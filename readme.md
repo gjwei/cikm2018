@@ -1,6 +1,6 @@
 ## 运行本项目的过程：
 1. 安装requirements.txt中的所有库
-2. 从链接https://stanfordnlp.github.io/CoreNLP/中下载corenlp的安装包（运行需要Java），下载[西班牙语](http://nlp.stanford.edu/software/stanford-spanish-corenlp-2018-02-27-models.jar)的对应文件,放置到安装包主目录中
+2. 从链接https://stanfordnlp.github.io/CoreNLP/ 中下载corenlp的安装包（运行需要Java），下载[西班牙语](http://nlp.stanford.edu/software/stanford-spanish-corenlp-2018-02-27-models.jar) 的对应文件,放置到安装包主目录中
 3. 修改code/build_data.py中的`corenlp_path`
 
 ## 运行环境
